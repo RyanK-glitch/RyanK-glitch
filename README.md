@@ -161,7 +161,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanK-glitch&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
+  <img src="https://ghchart.rshah.org/7aa2f7/RyanK-glitch" width="100%" alt="contribution graph" />
 </p>
 
 ---
